@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: jenkins_pipeline_kubernetes
+  annotations:
+    github.com/project-slug: anupkulkarni24/jenkins_pipeline_kubernetes
+spec:
+  type: other
+  lifecycle: unknown
+  owner: infrastructure
