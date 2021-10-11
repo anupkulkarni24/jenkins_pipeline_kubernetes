@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: anupkulkarni24/jenkins_pipeline_kubernetes
 spec:
   type: other
-  lifecycle: unknown
-  owner: "infrastructure"
+  lifecycle: production
+  owner: my-team-name
