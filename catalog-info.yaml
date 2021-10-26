@@ -6,6 +6,6 @@ metadata:
     github.com/project-slug: anupkulkarni24/jenkins_pipeline_kubernetes
     backstage.io/kubernetes-id: jenkins_pipeline_kubernetes
 spec:
-  type: other
+  type: service
   lifecycle: production
   owner: guest
