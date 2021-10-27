@@ -4,7 +4,7 @@ metadata:
   name: jenkins_pipeline_kubernetes
   annotations:
     github.com/project-slug: anupkulkarni24/jenkins_pipeline_kubernetes
-    backstage.io/kubernetes-id: jenkins_pipeline_kubernetes
+    backstage.io/kubernetes-id: hello-minikube
 spec:
   type: service
   lifecycle: production
